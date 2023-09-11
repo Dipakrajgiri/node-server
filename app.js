@@ -4,5 +4,5 @@ app.get("/",(req,res)=>{
 res.send("I love programmng");
 })
 app.listen(3000,()=>{
-    console.log("listening to your heart");
+    console.log("listening to your heart 😅");
 })
